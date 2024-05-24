@@ -22,13 +22,13 @@ private:
     //-------------------
     vector<string> Product_Name = {"Milk", "Apples", "Mangoes"};
     vector<int> Product_Quantity = {20, 25, 15};
-    vector<int> Product_Price = {12, 10, 17};
+    vector<double> Product_Price = {12, 10, 17};
     //-------------------
     // CART INFO
     //-------------------
     vector<string> Cart_Items_Names;
     vector<int> Cart_Items_Quantity;
-    vector<int> Cart_Items_Price;
+    vector<double> Cart_Items_Price;
     //------------------
     // REGISTRATION
     //------------------
