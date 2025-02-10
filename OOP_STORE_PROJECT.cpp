@@ -15,7 +15,7 @@ private:
     //-------------------
     // CUSTOMER INFO
     //-------------------
-    map<string, string> Customers; 
+    map<string, string> Customers;
     string Current_Customer;
     //-------------------
     // STOCK INFO
